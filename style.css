@@ -1,0 +1,186 @@
+body {
+  background-color: #5e8a3b;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.logo {
+    width: 322px;
+    height: 202px;
+}
+header, h1 {
+    text-align: center;
+    color: white;
+}
+
+b {
+    color: red;
+    font-size: 30px;
+}
+nav {
+   margin: 10px 00px;
+  text-align: center;
+background-color: #1cb429;
+}
+
+nav a{
+     text-decoration: none;
+    padding-right: 20px;
+    color: #800000;
+    background-color: 	#AF4035;
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+.text {
+   color: white;
+   font-size: 20px;
+    text-align: center
+}
+
+.kola {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    background-color: #3b5c20;
+    font-size: 20px;
+}
+
+.home {
+    background-color: #477026;
+}
+
+.far {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    background-color: #d63c3c;
+    font-size: 20px;
+}
+
+.basil {
+    width: 267px;
+    height: 255px;
+    border: 10px solid #e48a8a;
+}
+
+.hoh {
+    text-align: center; 
+    color: white;
+   font-size: 20px;
+}
+
+.hi {
+     text-align: center;
+    font-family: monospace;
+    color: white;
+    background-color: #4a7dad;
+    font-size: 20px;
+}
+
+.kyl {
+    width: 289px;
+    height: 265px;
+    border: 10px solid #97ebf1;
+}
+
+.lol {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.bb {
+     text-align: center;
+    font-family: monospace;
+    color: white;
+    background-color: #acab76;
+    font-size: 20px;
+}
+
+.nn {
+     width: 299px;
+    height: 265px;
+    border: 10px solid #ceda99;
+}
+
+.rr {
+    color: white;
+    font-size: 20px;
+}
+
+.pepsi {
+    border: 10px solid #bbf78b;
+}
+
+.svat {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    background-color: #403dee;
+    font-size: 20px;
+}
+.mikol {
+    border: 10px solid #9796fd;
+    width: 299px;
+    height: 265px; 
+}
+
+.GO {
+    color: white;
+   text-align: center; 
+   font-size: 20px;
+}
+
+.jo {
+    color: beige;
+     background-color: rgb(184, 52, 52);
+    font-size: 20px;
+    text-align: center;
+    border-radius: 30px;
+    margin: 14px;
+}
+
+.ho {
+    color: rgb(21, 78, 16);
+     background-color: rgb(184, 52, 52);
+    font-size: 20px;
+    text-align: center;
+    border-radius: 30px;
+    margin: 14px;
+}
+
+.po {
+    color: beige;
+    background-color: rgb(184, 52, 52);
+    font-size: 20px;
+    text-align: center;
+    border-radius: 30px;
+    margin: 14px;
+}
+
+.all {
+    color: rgb(121, 20, 20);
+    text-align: center;
+    font-size: 20px;
+    background-color: #98e25c;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.far {
+    font-size: 20px;
+}
+
+.tab {
+  background-color: #97c076;
+  border: 3px solid #800000;
+ border-collapse:collapse;
+}
+
+.tt {
+    border: 2px solid #800000;
+    color: rgb(0, 0, 0);
+    font-family: inherit;
+}
+.lala{
+    background-color: #e65b5b;
+}
